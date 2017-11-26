@@ -1,0 +1,9 @@
+/Users/marvinlaucher/FsDev/Tuples/Tuples/obj/Debug/Tuples.fsprojResolveAssemblyReference.cache
+/Users/marvinlaucher/FsDev/Tuples/Tuples/obj/Debug/Tuples.fsproj.CoreCompileInputs.cache
+/Users/marvinlaucher/FsDev/Tuples/Tuples/bin/Debug/Tuples.dll
+/Users/marvinlaucher/FsDev/Tuples/Tuples/bin/Debug/Tuples.pdb
+/Users/marvinlaucher/FsDev/Tuples/Tuples/bin/Debug/FSharp.Core.dll
+/Users/marvinlaucher/FsDev/Tuples/Tuples/bin/Debug/System.ValueTuple.dll
+/Users/marvinlaucher/FsDev/Tuples/Tuples/bin/Debug/FSharp.Core.xml
+/Users/marvinlaucher/FsDev/Tuples/Tuples/obj/Debug/Tuples.dll
+/Users/marvinlaucher/FsDev/Tuples/Tuples/obj/Debug/Tuples.pdb
