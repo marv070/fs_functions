@@ -1,0 +1,2 @@
+/Users/marvinlaucher/FsDev/Bitmaps/Bitmaps/obj/Debug/Bitmaps.fsprojResolveAssemblyReference.cache
+/Users/marvinlaucher/FsDev/Bitmaps/Bitmaps/obj/Debug/Bitmaps.fsproj.CoreCompileInputs.cache

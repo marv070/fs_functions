@@ -1,16 +1,9 @@
 ﻿open System.Drawing
 
-let bitmap = new Bitmap(16,16)
+let bitmap = new Bitmap(32,32)
 
-let path = __SOURCE_DIRECTORY__ + "/"
+let path = "/Users/marvinlaucher/FsDev/Bitmaps/Bitmaps" + "/"
 
-bitmap.Save(path + "bitmap.png")
+bitmap.Save(path + "large.png")
 
-open System.Drawing
-
-let bitmap = new Bitmap(16,16)
-
-let path = __SOURCE_DIRECTORY__ + "/"
-
-
-bitmap.Save(path + "bitmap.png")
+//printfn "%A" (path)
