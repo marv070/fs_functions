@@ -1,4 +1,4 @@
-﻿let person = ("Mark", "Gray","Man Utd", 22)
+﻿let person = ("Marv", "Laucher","Steelers", 30)
 
 type Date = {
     day : int
@@ -9,16 +9,16 @@ type Date = {
 type Person = {
     firstName: string
     lastName: string
-    favClub: string
+    favTeam: string
     myAge: int 
     dateOfBirth: Date }
 
 let me = {
     firstName="Marvin"
     lastName="Laucher"
-    favClub="Man Utd"
-    myAge=22
-    dateOfBirth= {day=1;month=1;year=1900} } 
+    favTeam="Steelers"
+    myAge=35
+    dateOfBirth= {day=22;month=9;year=1982} } 
 
 
 let updateDob person birthday = 
@@ -30,11 +30,16 @@ let updateDob person birthday =
 let { firstName=myFirstName } = me
 let { lastName=myLastName } = me
 let { myAge=myAge } = me
-let { favClub=myclub } = me
+let { favTeam=myFavTeam } = me
+let { dateOfBirth=myDob } = me
 
 let myFullName = me.firstName + " " +  me.lastName
 
 let temp = { me with myAge=35 }
+
+let marvsBdate = me.dateOfBirth
+
+let anotherUpdate = { me with favTeam="The Pittsburgh STEELERS" }
 
 me
 
