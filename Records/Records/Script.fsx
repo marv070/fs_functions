@@ -1,5 +1,40 @@
-﻿// Learn more about F# at http://fsharp.org. See the 'F# Tutorial' project
-// for more guidance on F# programming.
+﻿let person = ("Mark", "Gray","Man Utd", 22)
 
-#load "Component1.fs"
-open Records
+type Date = {
+    day : int
+    month : int
+    year : int }
+
+    
+type Person = {
+    firstName: string
+    lastName: string
+    favClub: string
+    myAge: int 
+    dateOfBirth: Date }
+
+let me = {
+    firstName="Marvin"
+    lastName="Laucher"
+    favClub="Man Utd"
+    myAge=22
+    dateOfBirth= {day=1;month=1;year=1900} } 
+
+
+let updateDob person birthday = 
+    let updated = { person with dateOfBirth=birthday }
+    printfn "%A" updated
+    printfn "%A" person
+    updated
+
+let { firstName=myFirstName } = me
+let { lastName=myLastName } = me
+let { myAge=myAge } = me
+let { favClub=myclub } = me
+
+let myFullName = me.firstName + " " +  me.lastName
+
+let temp = { me with myAge=35 }
+
+me
+
