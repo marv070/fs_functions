@@ -1,0 +1,9 @@
+/Users/marvinlaucher/FsDev/mathFunctions/mathFunctions/bin/Debug/mathFunctions.dll
+/Users/marvinlaucher/FsDev/mathFunctions/mathFunctions/bin/Debug/mathFunctions.pdb
+/Users/marvinlaucher/FsDev/mathFunctions/mathFunctions/bin/Debug/FSharp.Core.dll
+/Users/marvinlaucher/FsDev/mathFunctions/mathFunctions/bin/Debug/System.ValueTuple.dll
+/Users/marvinlaucher/FsDev/mathFunctions/mathFunctions/bin/Debug/FSharp.Core.xml
+/Users/marvinlaucher/FsDev/mathFunctions/mathFunctions/obj/Debug/mathFunctions.fsprojResolveAssemblyReference.cache
+/Users/marvinlaucher/FsDev/mathFunctions/mathFunctions/obj/Debug/mathFunctions.fsproj.CoreCompileInputs.cache
+/Users/marvinlaucher/FsDev/mathFunctions/mathFunctions/obj/Debug/mathFunctions.dll
+/Users/marvinlaucher/FsDev/mathFunctions/mathFunctions/obj/Debug/mathFunctions.pdb
